@@ -15,6 +15,6 @@ export const ModalOverlay = styled.div`
 
 export const ModalStyled = styled.div`
   position: relative;
-  max-width: 900px;
-  max-height: 900px;
+  max-width: 1200px;
+  max-height: 1200px;
 `;
