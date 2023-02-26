@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import PropTypes from 'prop-types';
-import { FcSearch } from 'react-icons/fc';
+import { FcSearch } from "react-icons/fc";
 import { IconButton } from '../IconButton/IconButton';
 import { toast } from 'react-toastify';
 import {
