@@ -1,5 +1,3 @@
-// import {IconButton} from "./IconButton/IconButton";
-// import { MdImageSearch } from 'react-icons/fa';
 import { Component } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
 import { getImages } from 'Servises/imagesApi';
