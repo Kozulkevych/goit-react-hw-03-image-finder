@@ -13,7 +13,6 @@ export class App extends Component {
     query: '',
     images: [],
     page: 1,
-    totalHits: '',
     status: 'idle',
   };
 
